@@ -2,7 +2,7 @@
 
   (uuid 70d106d8-59a2-4d35-95ee-285c99ff8d29)
 
-  (paper "B")
+  (paper "A")
 
   (title_block
     (title "drewSBC")
@@ -1214,23 +1214,17 @@
   (global_label "POS12_PGOOD" (shape output) (at 232.156 105.41 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3deba8ac-6862-4df4-8c5e-3106ec92e0fa)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0))
   )
   (global_label "POS12_SNS+" (shape passive) (at 176.53 44.958 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid bd70b987-9175-496e-9eb7-ad6a4e0c0ec9)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0))
   )
   (global_label "POS12_SNS-" (shape passive) (at 188.214 44.958 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e11ab3e1-e4f0-4331-a71b-f821c9112e9b)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -0.762 0.254 0))
   )
 
   (symbol (lib_id "Custom_Library:R_Custom") (at 113.538 89.662 0) (unit 1)
