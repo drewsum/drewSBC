@@ -2,11 +2,11 @@
 
   (uuid bc9422cd-98ef-4369-bd8e-0544ac50a18f)
 
-  (paper "A")
+  (paper "B")
 
   (title_block
     (title "drewSBC")
-    (date "2022-06-23")
+    (date "2022-06-26")
     (rev "PRELIM")
     (company "Drew Maatman")
   )
