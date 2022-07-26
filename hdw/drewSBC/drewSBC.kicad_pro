@@ -282,7 +282,7 @@
     "annotate_start_num": 0,
     "drawing": {
       "default_line_thickness": 6.0,
-      "default_text_size": 40.0,
+      "default_text_size": 50.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -388,6 +388,18 @@
     [
       "3b195ef9-66c3-4c49-8e3b-8fe8b34b9022",
       "Misc"
+    ],
+    [
+      "def5fc50-38e1-4da5-bf43-cdcf9afdfeab",
+      "SD Card"
+    ],
+    [
+      "2162fbc4-cd5a-4baf-b875-f4df2084a2ac",
+      "Scan Connectors"
+    ],
+    [
+      "f5263f14-d708-4af4-ae29-c0c2f05f378c",
+      "WiFi"
     ]
   ],
   "text_variables": {}
