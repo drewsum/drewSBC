@@ -383,7 +383,7 @@
     ],
     [
       "a6777918-c138-43fd-8705-02d8266e6de2",
-      "HDMI"
+      "HDMI_Output"
     ],
     [
       "3b195ef9-66c3-4c49-8e3b-8fe8b34b9022",
@@ -400,6 +400,10 @@
     [
       "f5263f14-d708-4af4-ae29-c0c2f05f378c",
       "WiFi"
+    ],
+    [
+      "d6f8d1f2-c596-4003-865c-24102df80238",
+      "Ethernet Support"
     ]
   ],
   "text_variables": {}
